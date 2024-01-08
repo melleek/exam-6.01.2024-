@@ -1,0 +1,35 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+body {
+  font-family: sans-serif;
+}
+.v {
+  background-image: url("src/assets/main/section2/Rectangle 1771.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.v1 {
+  background-image: url("src/assets/main/section4/Rectangle 1772 (1).png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.bg {
+  border-radius: 40px;
+  background: linear-gradient(90deg, rgba(138, 0, 222, 0.42) -3.04%, rgba(160, 60, 221, 0.51) -3.03%, rgba(61, 202, 118, 0.35) 46.34%, rgba(130, 100, 251, 0.30) 100%);
+}
+.d1 {
+  background-image: url("src/assets/main/section2/Rectangle 1936.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.as {
+  background-image: url("src/assets/main/section2/Rectangle 1772.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.gh {
+  border-radius: 80px 80px 80px 0px;
+}
